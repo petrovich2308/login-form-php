@@ -1,3 +1,1 @@
-![alt text](index.png)
-
-![alt text](home.png)
+[Image alt](https://github.com/petrovich2308/login-form-php/edit/main/index.png)
