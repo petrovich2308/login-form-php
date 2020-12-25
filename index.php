@@ -10,7 +10,15 @@
 </head>
 <body>
 
+<form>
+    <label for="uname">User Name</label>
+    <input type="text" id="uname" name="uname">
 
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password">
+
+    <button type="submit">Login</button>
+</form>
 
 </body>
 </html>
