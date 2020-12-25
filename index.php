@@ -11,11 +11,12 @@
 <body>
 
 <form>
+    <h2>LOGIN</h2>
     <label for="uname">User Name</label>
-    <input type="text" id="uname" name="uname">
+    <input type="text" id="uname" name="uname"> <br>
 
     <label for="password">Password</label>
-    <input type="password" id="password" name="password">
+    <input type="password" id="password" name="password"> <br>
 
     <button type="submit">Login</button>
 </form>
